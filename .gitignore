@@ -1,0 +1,24 @@
+# Whitelist: only the game itself goes into the repo.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/FinalCut.uproject
+!/Source/
+!/Config/
+!/Content/
+!/ThirdPartyNotices/
+
+# editor/build tooling and non-gameplay content
+/Content/Python/
+/Content/Trailer/
+/Content/Developers/
+/Content/Collections/
+__pycache__/
+*.pyc
+
+# per-user / generated files that can appear inside the folders above
+*.sln
+*.suo
+*.VC.db
+*.opensdf
