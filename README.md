@@ -44,8 +44,6 @@ Started as an entry for the Epic AI MegaJam 2026 (theme: "Director's Cut") and n
 | `Content/Characters` | voxel body data assets, mannequin skeleton and animations |
 | `Config` | project settings (ray tracing, DLSS defaults, input) |
 
-The editor scripts and Blender generators used to build the rooms, clips and UI are not part of this repository.
-
 ## Credits
 Fonts: Jersey 15 and VT323, both under the SIL Open Font License 1.1 (see `ThirdPartyNotices/`).
 Built with Unreal Engine 5. NVIDIA, RTX and DLSS are trademarks of NVIDIA Corporation.
