@@ -1,5 +1,7 @@
 # FINAL CUT: The Escape
 
+![FINAL CUT: The Escape](Media/banner.jpg)
+
 A true-crime editing mystery in voxel style. You are the editor on a documentary about a prison escape:
 put the security-camera clips in order on a timeline, switch camera angles, and hit **RTX ENHANCE** to find what
 the ray-traced reflections and shadows are hiding. The producer wants a happy ending. How you cut it decides the
@@ -9,6 +11,21 @@ Started as an entry for the Epic AI MegaJam 2026 (theme: "Director's Cut") and n
 
 - Play it: https://kingmayhem.itch.io/finalcut
 - Trailer: https://youtu.be/nhGwZWOCrjM
+
+## Screenshots
+| | |
+|---|---|
+| ![Title screen](Media/title_screen.jpg) | ![The cutting room: footage bin, 6-slot timeline and the producer's chat](Media/cutting_room.jpg) |
+| **Title screen** | **The cutting room**: put the clips from the footage bin on the timeline while the producer pushes her version |
+| ![Rough cut CCTV feed](Media/rough_cut.jpg) | ![The same shot with RTX ENHANCE on](Media/rtx_enhanced.jpg) |
+| **Rough cut**: the grainy CCTV feed | **RTX ENHANCE**: the same shot with hardware ray tracing and DLSS |
+
+### From the trailer
+| | |
+|---|---|
+| ![CAM-1 cell block](Media/trailer_cctv.jpg) | ![Ray-traced street camera](Media/trailer_ray_traced.jpg) |
+| ![Prisoner #4471 in his cell](Media/rook_cell.jpg) | ![The laundry](Media/laundry.jpg) |
+| ![The laundry truck in the yard](Media/yard_truck.jpg) | |
 
 ## Features
 - Footage bin, 6-slot timeline, play / pause, several CCTV angles per clip

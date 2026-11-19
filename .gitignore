@@ -8,6 +8,7 @@
 !/Config/
 !/Content/
 !/ThirdPartyNotices/
+!/Media/
 
 # editor/build tooling and non-gameplay content
 /Content/Python/
